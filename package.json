@@ -1,0 +1,32 @@
+{
+  "name": "testingndeploing",
+  "version": "1.0.0",
+  "description": "Testing introduction and deploy automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franrios/testingNdeploying.git"
+  },
+  "keywords": [
+    "testing",
+    "deploying",
+    "tutorial"
+  ],
+  "author": "Fran Ríos <fcojriosbello@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franrios/testingNdeploying/issues"
+  },
+  "homepage": "https://github.com/franrios/testingNdeploying#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "request": "^2.69.0"
+  }
+}
