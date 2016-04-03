@@ -1,5 +1,5 @@
 var request = require('request')
-var expect = require('Chai').expect
+var expect = require('chai').expect
 
 const spawn = require('child_process').spawn
 
