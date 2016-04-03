@@ -22,9 +22,7 @@
   },
   "homepage": "https://github.com/franrios/testingNdeploying#readme",
   "dependencies": {
-    "express": "^4.13.4"
-  },
-  "devDependencies": {
+    "express": "^4.13.4",
     "chai": "^3.5.0",
     "mocha": "^2.4.5",
     "request": "^2.69.0"
