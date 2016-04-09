@@ -1,7 +1,4 @@
 language: node_js
 sudo: false
-script:
-  - node index.js &
-  - mocha
 node_js:
   - "4.2.1"
