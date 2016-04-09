@@ -1,6 +1,6 @@
-const gulp = require('gulp')
-const mocha = require('gulp-mocha')
-const bg = require('gulp-bg')
+var gulp = require('gulp')
+var mocha = require('gulp-mocha')
+var bg = require('gulp-bg')
 
 var bgstart
 gulp.task('start', bgstart = bg('node', './index.js'))
