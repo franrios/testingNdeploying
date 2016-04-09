@@ -6,4 +6,4 @@ node_js:
   - "4.2.1"
 
 after_success:
-  - "curl -H "Content-Type: application/json" --data '{"build": true}' -X POST https://registry.hub.docker.com/u/fcojriosbello/testingndeploying/trigger/4fcbd380-e094-4c28-9bab-95f7fe62001a/"
+  "curl -H "Content-Type: application/json" --data '{"build": true}' -X POST https://registry.hub.docker.com/u/fcojriosbello/testingndeploying/trigger/4fcbd380-e094-4c28-9bab-95f7fe62001a/"
