@@ -1,5 +1,5 @@
 # testingNdeploying
-https://travis-ci.org/franrios/testingNdeploying.svg?branch=master
+[![Build Status](https://travis-ci.org/franrios/testingNdeploying.svg?branch=master)
 Testing introduction and deploy automation
 
 Used:
