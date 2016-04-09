@@ -5,8 +5,5 @@ sudo: false
 node_js:
   - "4.2.1"
 
-deploy:
-  script:
+after_success:
     - $DOCKER_TRIGGER
-  on:
-    branch: master  
