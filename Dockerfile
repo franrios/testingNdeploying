@@ -2,7 +2,7 @@ FROM ubuntu:14.04
 
 MAINTAINER Fran Rios fcojriosbello@gmail.com
 
-# to avoid some problems:
+# It's necessary to avoid some problems:
 # debconf: unable to initialize frontend: Dialog
 ENV DEBIAN_FRONTEND noninteractive
 
