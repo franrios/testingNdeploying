@@ -1,5 +1,5 @@
 # testingNdeploying
-![Build Status](https://travis-ci.org/franrios/testingNdeploying.svg?branch=master)
+[![Build Status](https://travis-ci.org/franrios/testingNdeploying.svg)](https://travis-ci.org/franrios/testingNdeploying)
 
 Testing introduction and deploy automation using Travis-CI, DockerHub, DockerCloud and DigitalOcean
 
